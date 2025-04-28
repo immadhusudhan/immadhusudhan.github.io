@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -212,8 +211,8 @@
                 <img src="https://via.placeholder.com/150" alt="Profile Picture" class="profile-img">
             </div>
             <div class="header-text">
-                <h1>YOUR NAME</h1>
-                <p>Professional Title (e.g., Software Engineer)</p>
+                <h1>Madhusudhan Pantha</h1>
+                <p>Student</p>
             </div>
         </header>
         
@@ -221,11 +220,11 @@
             <div class="left-column">
                 <section class="section contact-info">
                     <h2 class="section-title">Contact</h2>
-                    <p><i class="fas fa-phone"></i> +1 (123) 456-7890</p>
-                    <p><i class="fas fa-envelope"></i> your.email@example.com</p>
-                    <p><i class="fas fa-map-marker-alt"></i> Your City, Country</p>
-                    <p><i class="fab fa-linkedin"></i> linkedin.com/in/yourprofile</p>
-                    <p><i class="fab fa-github"></i> github.com/yourusername</p>
+                    <p><i class="fas fa-phone"></i> 0442461844</p>
+                    <p><i class="fas fa-envelope"></i> madhupantha10@gmail.com</p>
+                    <p><i class="fas fa-map-marker-alt"></i>Lehdokkitie 4A Vantaa, Finland</p>
+                    <p><i class="fab fa-linkedin"></i> https://www.linkedin.com/in/madhusudhanpantha/</p>
+                    <p><i class="fab fa-github"></i> https://github.com/immadhusudhan</p>
                 </section>
                 
                 <section class="section">
