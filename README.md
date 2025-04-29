@@ -341,7 +341,7 @@
                     </div>
                     
                     <div class="education-item">
-                        <h3 class="degree">Bachelor of Science in Software Engineering</h3>
+                        <h3 class="degree">Bachelor in Business Administration</h3>
                         <p class="university">State University</p>
                         <p class="date">2010 - 2014</p>
                     </div>
